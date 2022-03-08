@@ -1,4 +1,4 @@
-package main
+package gocode1
 
 import "fmt"
 
